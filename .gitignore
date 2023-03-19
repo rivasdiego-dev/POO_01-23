@@ -1,6 +1,19 @@
 # Compiled class file
 *.class
 
+# XML file
+*.xml
+
+# Propierties files
+*.properties
+
+# IDE (NetBeans) config files
+*.netbeans_automatic_build
+*.netbeans_update_resources
+
+# Manifest
+*.mf
+
 # Log file
 *.log
 
@@ -11,7 +24,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
