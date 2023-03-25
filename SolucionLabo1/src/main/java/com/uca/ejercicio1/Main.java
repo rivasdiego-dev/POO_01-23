@@ -16,10 +16,7 @@ public class Main {
         
         compareBooks(libro1, libro2);
         compareBooks(libro1, libro3);
-        compareBooks(libro2, libro3);
-        
-        
-
+        compareBooks(libro2, libro3);       
     }
 
     /**
