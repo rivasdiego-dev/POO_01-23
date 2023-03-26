@@ -30,7 +30,6 @@ public class Main {
         JOptionPane.showMessageDialog(null, "El total de tu compra es " + Total(listOfProducts), "Total de compra", JOptionPane.INFORMATION_MESSAGE);
 
     }
-
     /**
      * Function that sums all prices in an array of 'n' products
      * @param products Array containing products
