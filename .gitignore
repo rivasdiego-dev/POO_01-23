@@ -34,3 +34,4 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /solucionParcial1-ejercicio1/target/
+/solucionParcial1-ejercicio2-v2/target/
